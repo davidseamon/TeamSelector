@@ -1,0 +1,5 @@
+Project Name	Skills Required	Difficulty (1 - 10)	Importance Of Completion/ Picking (1-10)	Open Spots
+PlantClock	Tinkerer	9	9	6
+Drone	Hacker	4	6	6
+VibratingPipe	Business	6	3	2
+SolarLamp	Tinkerer	7	5	4

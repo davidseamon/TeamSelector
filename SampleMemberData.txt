@@ -1,0 +1,9 @@
+Name	Project 1	Project 2	Project 3	Year	Hacker	Tinkerer	Business Tycoon	Leader	Past Semesters	Successful Semesters	Attended Meetings	Missed Meetings
+David	SolarLamp	VibratingPipe	Drone	2	4	8	2	5	2	1	20	0
+Ethan	Drone	SolarLight	PlantClock	3	3	7	9	3	3	2	26	4
+Mary	VibratingPipe	PlantClock	SolarLight	1	7	2	6	4	0	0	0	0
+Gopika	SolarLamp	PlantClock	VibratingPipe	1	9	2	3	3	0	0	0	0
+Tommy	Drone	SolarLight	VibratingPipe	2	6	3	0	1	1	1	9	1
+Ryan	PlantClock	SolarLight	Drone	2	3	8	6	5	2	2	17	3
+Barbara	PlantClock	Drone	VibratingPipe	3	9	3	6	1	1	0	10	0
+Megan	SolarLamp	VibratingPipe	Drone	1	1	8	9	3	0	0	0	0
