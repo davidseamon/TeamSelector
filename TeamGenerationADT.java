@@ -7,5 +7,5 @@ public interface TeamGenerationADT {
 	public void generateProjects(PriorityQueue<Member> pq, ArrayList<Project> projects);
 	
 	public void printProjects();
-	System.out.print();
+
 }
